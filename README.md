@@ -8,8 +8,8 @@ Table of Contents
 
 1.  [Introduction to Pair Programming](#1-introduction-to-pair-programming)
 2.  [Creating a GitHub Repository](#2-creating-a-github-repository)
-3.  [Setting Up Your Development Environment](#4-setting-up-your-development-environment)
-4.  [Cloning the Repository Using Command Line](#3-cloning-the-repository-using-command-line)
+3.  [Setting Up Your Development Environment](#3-setting-up-your-development-environment)
+4.  [Cloning the Repository Using Command Line](#4-cloning-the-repository-using-command-line)
 5.  [Understanding HTML Basics](#5-understanding-html-basics)
 6.  [Understanding CSS Basics](#6-understanding-css-basics)
 7.  [Committing HTML and CSS to GitHub](#7-committing-html-and-css-to-github)
