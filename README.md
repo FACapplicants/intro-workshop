@@ -1,15 +1,15 @@
 Beginner’s Guide to Pair Programming: Building and Publishing a Simple Web Page on GitHub Pages with HTML and CSS
 =================================================================================================================
 
-Welcome to your journey into web development! This guide is designed for complete beginners and utilizes a **self-directed peer-led learning approach**. By partnering with a peer, you’ll collaborate to build and publish a simple web page using HTML and CSS, then host it on GitHub Pages. Let’s get started!
+Welcome to your journey into web development! This guide is designed for complete beginners and utilises a **self-directed peer-led learning approach**. By partnering with a peer, you’ll collaborate to build and publish a simple web page using HTML and CSS, then host it on GitHub Pages. Let’s get started!
 
 Table of Contents
 -----------------
 
 1.  [Introduction to Pair Programming](#1-introduction-to-pair-programming)
 2.  [Creating a GitHub Repository](#2-creating-a-github-repository)
-3.  [Cloning the Repository Using Command Line](#3-cloning-the-repository-using-command-line)
-4.  [Setting Up Your Development Environment](#4-setting-up-your-development-environment)
+3.  [Setting Up Your Development Environment](#4-setting-up-your-development-environment)
+4.  [Cloning the Repository Using Command Line](#3-cloning-the-repository-using-command-line)
 5.  [Understanding HTML Basics](#5-understanding-html-basics)
 6.  [Understanding CSS Basics](#6-understanding-css-basics)
 7.  [Committing HTML and CSS to GitHub](#7-committing-html-and-css-to-github)
@@ -42,7 +42,7 @@ A **repository (repo)** is a storage space for your project on GitHub. It tracks
     *   Go to [GitHub](https://github.com/) and log in to your account. If you don't have an account, sign up [here](https://github.com/join).
 2.  **Create a New Repository:**
     
-    *   Click the "+" icon in the top-right corner and select "New repository."
+    *   Go to this organisation, and click the green "New" button to create a new repo.
 3.  **Configure Repository Settings:**
     
     *   **Repository Name:** Enter a name (e.g., `my-first-webpage`).
@@ -57,53 +57,7 @@ A **repository (repo)** is a storage space for your project on GitHub. It tracks
 *   **Repository:** A project folder in GitHub to store code.
 *   **README:** A markdown file that describes your project.
 
-3\. Cloning the Repository Using Command Line
----------------------------------------------
-
-**Cloning** a repository means creating a local copy of the repository on your computer. This allows you to work on your project locally.
-
-### **Steps to Clone a Repository:**
-
-1.  **Copy Repository URL:**
-    
-    *   On your repository page on GitHub, click the green "Code" button.
-    *   Copy the HTTPS URL provided (e.g., `https://github.com/your-username/my-first-webpage.git`).
-2.  **Open Command Line Interface (CLI):**
-    
-    *   **Windows:** Use Command Prompt or Git Bash.
-    *   **macOS/Linux:** Use Terminal.
-3.  **Navigate to Desired Directory:**
-    
-    ```bash
-    
-    cd path/to/your/directory
-    ```
-    
-    Replace `path/to/your/directory` with the path where you want to store your project.
-    
-4.  **Run the Clone Command:**
-    
-    ```bash
-    git clone https://github.com/your-username/my-first-webpage.git
-    ```
-    
-    Replace `your-username` with your GitHub username.
-    
-5.  **Navigate to the Cloned Repository:**
-    
-    ```bash
-    
-    cd my-first-webpage
-    ```
-    
-
-**Concepts Introduced:**
-------------------------
-
-*   **Cloning:** Creating a local copy of a remote repository.
-*   **Command Line Interface (CLI):** A text-based interface to interact with your computer.
-
-4\. Setting Up Your Development Environment
+3\. Setting Up Your Development Environment
 -------------------------------------------
 
 Before you start coding, ensure you have the necessary tools installed.
@@ -146,6 +100,52 @@ Before you start coding, ensure you have the necessary tools installed.
 *   **Code Editor:** Tool for writing and editing code.
 *   **Git:** Version control system to manage code changes.
 *   **System PATH:** Environment variable that tells the OS where to find executables.
+
+4\. Cloning the Repository Using Command Line
+---------------------------------------------
+
+**Cloning** a repository means creating a local copy of the repository on your computer. This allows you to work on your project locally.
+
+### **Steps to Clone a Repository:**
+
+1.  **Copy Repository URL:**
+    
+    *   On your repository page on GitHub, click the green "Code" button.
+    *   Copy the HTTPS URL provided (e.g., `https://github.com/this-org-name/my-first-webpage.git`).
+2.  **Open Command Line Interface (CLI):**
+    
+    *   **Windows:** Use Command Prompt or Git Bash.
+    *   **macOS/Linux:** Use Terminal.
+3.  **Navigate to Desired Directory:**
+    
+    ```bash
+    
+    cd path/to/your/directory
+    ```
+    
+    Replace `path/to/your/directory` with the path where you want to store your project.
+    
+4.  **Run the Clone Command:**
+    
+    ```bash
+    git clone https://github.com/your-username/my-first-webpage.git
+    ```
+    
+    Replace `your-username` with your GitHub username.
+    
+5.  **Navigate to the Cloned Repository:**
+    
+    ```bash
+    
+    cd my-first-webpage
+    ```
+    
+
+**Concepts Introduced:**
+------------------------
+
+*   **Cloning:** Creating a local copy of a remote repository.
+*   **Command Line Interface (CLI):** A text-based interface to interact with your computer.
 
 5\. Understanding HTML Basics
 -----------------------------
