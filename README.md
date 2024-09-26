@@ -62,6 +62,16 @@ A **repository (repo)** is a storage space for your project on GitHub. It tracks
 
 Before you start coding, ensure you have the necessary tools installed.
 
+### **For Windows Users:**
+
+If you are using Windows then you won't have a Linux-like terminal by default so you will need to install one. Please follow [the installation instructions found here](https://code.visualstudio.com/docs/remote/wsl) to get a Linux distribution running on your Windows machine and to get it hooked up with VS Code on Windows.
+
+Here are a couple of older but still helpful guides that have some more information about setting up and using WSL as part of your development environment:
+
+[Set up a WSL development environment](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)
+
+[Get started using Visual Studio Code with Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
+
 ### **Tools Needed:**
 
 *   **Code Editor:** Software to write your code. [Visual Studio Code (VS Code)](https://code.visualstudio.com/) is highly recommended for beginners.
