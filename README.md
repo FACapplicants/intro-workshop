@@ -3,6 +3,8 @@ Beginner’s Guide to Pair Programming: Building and Publishing a Simple Web Pag
 
 Welcome to your journey into web development! This guide is designed for complete beginners and utilises a **self-directed peer-led learning approach**. By partnering with a peer, you’ll collaborate to build and publish a simple web page using HTML and CSS, then host it on GitHub Pages. Let’s get started!
 
+(In truth, you don't need to pair on this. You can work solo. But if you are at the meetup, we do recommend working with somebody else on it.) 
+
 Table of Contents
 -----------------
 
