@@ -78,6 +78,10 @@ Here are a couple of older but still helpful guides that have some more informat
 
 *   **Code Editor:** Software to write your code. [Visual Studio Code (VS Code)](https://code.visualstudio.com/) is highly recommended for beginners.
 *   **Git:** Version control system to track changes. [Download Git](https://git-scm.com/downloads).
+*   **Command Line Interface (CLI):**    
+    *   **Windows:** Use Command Prompt or Git Bash.
+    *   **macOS/Linux:** Use Terminal.
+
 
 ### **Installation Steps:**
 
@@ -90,6 +94,7 @@ Here are a couple of older but still helpful guides that have some more informat
     *   Go to the [Git download page](https://git-scm.com/downloads).
     *   Download and install Git for your OS.
     *   During installation, select the option to add Git to your system PATH.
+
 3.  **Configure Git (First-Time Setup):**
     
     *   Open your CLI.
@@ -112,6 +117,7 @@ Here are a couple of older but still helpful guides that have some more informat
 *   **Code Editor:** Tool for writing and editing code.
 *   **Git:** Version control system to manage code changes.
 *   **System PATH:** Environment variable that tells the OS where to find executables.
+*   **Command Line Interface (CLI):** Interact with your computer like it's 1970.
 
 4\. Cloning the Repository Using Command Line
 ---------------------------------------------
@@ -121,17 +127,12 @@ Here are a couple of older but still helpful guides that have some more informat
 ### **Steps to Clone a Repository:**
 
 1.  **Copy Repository URL:**
-    
     *   On your repository page on GitHub, click the green "Code" button.
     *   Copy the HTTPS URL provided (e.g., `https://github.com/this-org-name/my-first-webpage.git`).
-2.  **Open Command Line Interface (CLI):**
-    
-    *   **Windows:** Use Command Prompt or Git Bash.
-    *   **macOS/Linux:** Use Terminal.
+2.  **Open Command Line Interface (CLI)**
 3.  **Navigate to Desired Directory:**
     
     ```bash
-    
     cd path/to/your/directory
     ```
     
@@ -147,17 +148,15 @@ Here are a couple of older but still helpful guides that have some more informat
     
 5.  **Navigate to the Cloned Repository:**
     
-    ```bash
-    
+    ```bash  
     cd my-first-webpage
     ```
     
 
 **Concepts Introduced:**
 ------------------------
-
+*   **Changing directory:** Using the `cd` command, one of many useful UNIX commands you will learn over time.
 *   **Cloning:** Creating a local copy of a remote repository.
-*   **Command Line Interface (CLI):** A text-based interface to interact with your computer.
 
 5\. Understanding HTML Basics
 -----------------------------
@@ -359,7 +358,7 @@ GitHub Pages allows you to host your web page directly from your repository, mak
 
 Congratulations! You’ve successfully built and published your first web page using HTML, CSS, and GitHub Pages through pair programming. To reinforce your learning, test your understanding with the following questions.
 
-### **Self-Test Questions List 1:**
+### **Self-Test Questions**
 
 1.  **Pair Programming**
     
@@ -381,8 +380,6 @@ Congratulations! You’ve successfully built and published your first web page u
     
     *   What does the `<title>` tag define?
     *   How do you create a paragraph in HTML?
-
-### **Self-Test Questions List 2:**
 
 6.  **CSS Basics**
     
